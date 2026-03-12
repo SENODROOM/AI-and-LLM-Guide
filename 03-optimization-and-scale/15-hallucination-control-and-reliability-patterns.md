@@ -47,3 +47,9 @@ Reliability means knowing when not to answer automatically.
 ---
 **In AnonymousThinker:**
 A reliable assistant does not pretend certainty. It uses evidence gates, confidence checks, and escalation rules to stay trustworthy.
+
+---
+
+[← Previous: RAG Deep Dive and Knowledge Quality](14-rag-deep-dive-and-knowledge-quality.md) | [Next: Memory Architecture and Context Management →](16-memory-architecture-and-context-management.md)
+
+[📖 Back to Guide Index](../README.md)

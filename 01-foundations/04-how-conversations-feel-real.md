@@ -31,3 +31,9 @@ In our project, we handle this by carefully managing the "Context Window."
 ---
 **In AnonymousThinker:**
 Memory isn't a magical storage inside the AI; it's just the Backend being really good at re-telling the story of your chat every time you hit "Send."
+
+---
+
+[← Previous: The Digital Brain (Storage)](03-the-digital-brain-storage.md) | [Next: Mastering the Trainer Hub →](05-mastering-the-trainer-hub.md)
+
+[📖 Back to Guide Index](../README.md)

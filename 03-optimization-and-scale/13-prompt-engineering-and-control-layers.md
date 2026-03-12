@@ -57,3 +57,9 @@ Without versioning, troubleshooting becomes guesswork.
 ---
 **In AnonymousThinker:**
 Prompting should be treated like software configuration, not casual writing. Layering, conflict rules, and versioning create predictable behavior at scale.
+
+---
+
+[← Previous: Testing and Quality Evaluation](../02-advanced-development/12-testing-and-quality-evaluation.md) | [Next: RAG Deep Dive and Knowledge Quality →](14-rag-deep-dive-and-knowledge-quality.md)
+
+[📖 Back to Guide Index](../README.md)

@@ -36,3 +36,9 @@ Saving to a database like MongoDB is much faster and smarter than a simple text 
 ---
 **In AnonymousThinker:**
 When the AI responds, its answer is immediately saved to your specific "Conversation" entry in MongoDB. That’s why when you refresh the page or login from a different computer, your chats are still there!
+
+---
+
+[← Previous: Teaching the Machine to Learn](02-teaching-the-machine-to-learn.md) | [Next: How Conversations Feel Real →](04-how-conversations-feel-real.md)
+
+[📖 Back to Guide Index](../README.md)

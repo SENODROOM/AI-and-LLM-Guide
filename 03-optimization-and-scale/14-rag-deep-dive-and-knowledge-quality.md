@@ -57,3 +57,9 @@ This improves trust and makes audits possible.
 ---
 **In AnonymousThinker:**
 RAG is not "upload and done." It is a pipeline: source quality, chunking, embeddings, ranking, and citation discipline.
+
+---
+
+[← Previous: Prompt Engineering and Control Layers](13-prompt-engineering-and-control-layers.md) | [Next: Hallucination Control and Reliability Patterns →](15-hallucination-control-and-reliability-patterns.md)
+
+[📖 Back to Guide Index](../README.md)

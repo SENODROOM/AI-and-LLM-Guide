@@ -29,3 +29,9 @@ In your project's `.env` file, you see things like `GROQ_API_KEY`.
 ---
 **In AnonymousThinker:**
 The API is the "Bridge" that connects your local code to the world's most powerful artificial intelligence.
+
+---
+
+[← Previous: Mastering the Trainer Hub](05-mastering-the-trainer-hub.md) | [Next: Logical Defense and Reasoning →](../02-advanced-development/07-logical-defense-and-reasoning.md)
+
+[📖 Back to Guide Index](../README.md)

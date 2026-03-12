@@ -25,3 +25,9 @@ This is what AnonymousThinker uses **right now**. Instead of changing the AI's "
 ---
 **In AnonymousThinker:**
 When you upload Islamic texts or logical proofs, you are building a **Library**. Whenever anyone chats with the AI, the AI "glances" at your library to find facts before it answers.
+
+---
+
+[← Previous: Introduction to AI](01-introduction-to-ai.md) | [Next: The Digital Brain (Storage) →](03-the-digital-brain-storage.md)
+
+[📖 Back to Guide Index](../README.md)

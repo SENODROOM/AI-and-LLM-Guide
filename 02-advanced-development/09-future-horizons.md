@@ -26,3 +26,9 @@ The most important expansion is **You**.
 Technology changes every day, but the **principles of logic and reason** are timeless. Use these tools to build something that makes the world a clearer, more thoughtful place.
 
 **Keep Thinking. Keep Training.** 🧠✨
+
+---
+
+[← Previous: Security and Privacy](08-security-and-privacy.md) | [Next: Troubleshooting and Improvement Loop →](10-troubleshooting-and-improvement-loop.md)
+
+[📖 Back to Guide Index](../README.md)

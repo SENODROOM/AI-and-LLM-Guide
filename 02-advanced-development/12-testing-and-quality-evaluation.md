@@ -43,3 +43,9 @@ Before shipping updates to production, require:
 ---
 **In AnonymousThinker:**
 Quality is not a one-time claim. It is a measured discipline backed by benchmarks, rubrics, and repeatable review.
+
+---
+
+[← Previous: Production Readiness and Scale](11-production-readiness-and-scale.md) | [Next: Prompt Engineering and Control Layers →](../03-optimization-and-scale/13-prompt-engineering-and-control-layers.md)
+
+[📖 Back to Guide Index](../README.md)

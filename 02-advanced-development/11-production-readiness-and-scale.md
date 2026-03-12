@@ -43,3 +43,9 @@ This protects both quality and accountability.
 ---
 **In AnonymousThinker:**
 A strong AI platform is not only intelligent. It is measurable, stable, cost-aware, and controlled under growth.
+
+---
+
+[← Previous: Troubleshooting and Improvement Loop](10-troubleshooting-and-improvement-loop.md) | [Next: Testing and Quality Evaluation →](12-testing-and-quality-evaluation.md)
+
+[📖 Back to Guide Index](../README.md)

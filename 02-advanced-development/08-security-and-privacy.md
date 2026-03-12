@@ -28,3 +28,9 @@ You might have noticed the `.env` file. This is the **Vault**.
 ---
 **In AnonymousThinker:**
 Security isn't just about locks; it's about ensuring the **integrity** of the AI's training and the **privacy** of every person who uses it.
+
+---
+
+[← Previous: Logical Defense and Reasoning](07-logical-defense-and-reasoning.md) | [Next: Future Horizons →](09-future-horizons.md)
+
+[📖 Back to Guide Index](../README.md)

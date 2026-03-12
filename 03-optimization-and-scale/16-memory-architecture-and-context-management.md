@@ -55,3 +55,9 @@ This keeps responses personalized without bloating tokens.
 ---
 **In AnonymousThinker:**
 Memory should be engineered as a controlled architecture: layered, compressed, relevance-ranked, and privacy-bounded.
+
+---
+
+[← Previous: Hallucination Control and Reliability Patterns](15-hallucination-control-and-reliability-patterns.md) | [Next: Policy Enforcement and Red Teaming →](17-policy-enforcement-and-red-teaming.md)
+
+[📖 Back to Guide Index](../README.md)

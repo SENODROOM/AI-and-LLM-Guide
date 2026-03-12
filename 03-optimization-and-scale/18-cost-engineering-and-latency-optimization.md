@@ -54,3 +54,9 @@ Set expiration and invalidation rules to avoid stale outputs.
 ---
 **In AnonymousThinker:**
 Performance engineering means balancing quality, speed, and spend through routing, token discipline, and pipeline-level measurement.
+
+---
+
+[← Previous: Policy Enforcement and Red Teaming](17-policy-enforcement-and-red-teaming.md)
+
+[📖 Back to Guide Index](../README.md)

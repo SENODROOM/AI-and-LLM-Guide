@@ -29,3 +29,9 @@ When you upload scholarly PDFs, the AI uses "RAG" (from Part 2) to cite specific
 ---
 **In AnonymousThinker:**
 You are training the AI to be a **Logician**. It uses the tools of reason to explain and defend truth in a world of confusion.
+
+---
+
+[← Previous: The Magic of APIs](../01-foundations/06-the-magic-of-apis.md) | [Next: Security and Privacy →](08-security-and-privacy.md)
+
+[📖 Back to Guide Index](../README.md)

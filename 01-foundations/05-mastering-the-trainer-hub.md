@@ -28,3 +28,9 @@ You are not coding the AI; you are **curating its mind**. By choosing the right 
 
 ---
 *You are now ready to lead the future of AnonymousThinker and continue to Parts 6+ for advanced architecture, reasoning, security, and expansion.*
+
+---
+
+[← Previous: How Conversations Feel Real](04-how-conversations-feel-real.md) | [Next: The Magic of APIs →](06-the-magic-of-apis.md)
+
+[📖 Back to Guide Index](../README.md)
