@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Docs</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- ── Overlays ── -->
+    <div id="sidebar-overlay"></div>
+
+    <!-- ── Topbar (mobile) ── -->
+    <header id="topbar">
+      <button id="burger" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+      <span id="topbar-title">Docs</span>
+      <button id="topbar-search-btn" aria-label="Search">⌕</button>
+    </header>
+
+    <!-- ── Progress bar ── -->
+    <div id="progress-bar"></div>
+
+    <!-- ── Command palette ── -->
+    <div id="palette-overlay">
+      <div id="palette">
+        <div id="palette-input-row">
+          <span id="palette-icon">⌕</span>
+          <input
+            id="palette-input"
+            type="text"
+            placeholder="Search articles, sections…"
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <kbd id="palette-esc">esc</kbd>
+        </div>
+        <div id="palette-results"></div>
+        <div id="palette-footer">
+          <span><kbd>↑↓</kbd> navigate</span>
+          <span><kbd>↵</kbd> open</span>
+          <span><kbd>esc</kbd> close</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Toast ── -->
+    <div id="toast"></div>
+
+    <!-- ── App shell ── -->
+    <div id="app">
+      <!-- SIDEBAR -->
+      <nav id="sidebar">
+        <div class="sidebar-brand">
+          <div class="brand-dot"></div>
+          <div class="brand-text">
+            <div class="site-eyebrow">Documentation</div>
+            <div id="site-title">Docs Site</div>
+          </div>
+        </div>
+
+        <div class="sidebar-search" id="sidebar-search-row">
+          <button id="search-btn">
+            <span class="search-btn-icon">⌕</span>
+            <span class="search-btn-text">Search…</span>
+            <kbd>⌘K</kbd>
+          </button>
+        </div>
+
+        <div id="nav-tree"></div>
+
+        <div class="sidebar-footer">
+          <span id="file-count-label"></span>
+        </div>
+      </nav>
+
+      <!-- MAIN -->
+      <main id="main">
+        <!-- Loading -->
+        <div id="loading" class="visible">
+          <div class="loader-ring"></div>
+          <div class="loader-text">Loading docs<span class="dots"></span></div>
+        </div>
+
+        <!-- Error -->
+        <div id="error-view">
+          <div class="error-icon">⚡</div>
+          <div class="error-msg" id="error-msg-text">Something went wrong</div>
+          <div class="error-sub" id="error-sub-text"></div>
+          <button class="retry-btn" onclick="location.reload()">Retry</button>
+        </div>
+
+        <!-- Home -->
+        <div id="home-view"></div>
+
+        <!-- Article -->
+        <div id="article-view">
+          <div id="article-wrap">
+            <div id="article-content"></div>
+          </div>
+          <!-- Table of contents -->
+          <aside id="toc-panel">
+            <div class="toc-label">On this page</div>
+            <div id="toc-list"></div>
+          </aside>
+        </div>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
